@@ -1,0 +1,20 @@
+[
+  {
+    "id": "uniqueId",
+    "title": "Default title",
+    "user": "User",
+    "content": "Content"
+  },
+  {
+    "id": "uniqueId2",
+    "title": "Default title 2",
+    "user": "User",
+    "content": "Content"
+  },
+  {
+    "id": "uniqueId3",
+    "title": "Default title 3",
+    "user": "User",
+    "content": "Content"
+  }
+]
